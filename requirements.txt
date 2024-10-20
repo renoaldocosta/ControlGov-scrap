@@ -1,0 +1,10 @@
+pandas
+requests
+beautifulsoup4
+lxml
+cssselect
+pytz
+pyarrow
+mypy
+pymongo==4.9.2
+python-dotenv
