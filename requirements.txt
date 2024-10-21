@@ -8,3 +8,4 @@ pyarrow
 mypy
 pymongo==4.9.2
 python-dotenv
+pydantic
