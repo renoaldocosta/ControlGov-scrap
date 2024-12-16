@@ -9,3 +9,7 @@ mypy
 pymongo==4.9.2
 python-dotenv
 pydantic
+langchain_openai
+langchain_pinecone
+langchain
+langchain_community
